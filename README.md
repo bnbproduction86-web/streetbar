@@ -138,9 +138,9 @@ npx cap open ios
 
 | Nama Akun | Email | Role | PIN Kasir Touchscreen |
 | :--- | :--- | :--- | :--- |
-| **Bramantyo (Owner)** | `admin@streetbar.id` | Super Admin | **`112233`** |
-| **Rian Satria (Manager)** | `manager@streetbar.id` | Manager | **`998877`** |
-| **Nabila Putri (Kasir 1)** | `nabila@streetbar.id` | Cashier | **`123456`** |
-| **Dimas Prayoga (Head Bartender)** | `dimas@streetbar.id` | Bartender | **`556677`** |
+| **(Owner)** | `admin@streetbar.id` | Super Admin | **`112233`** |
+| **(Manager)** | `manager@streetbar.id` | Manager | **`998877`** |
+| **(Kasir 1)** | `sholeh@streetbar.id` | Cashier | **`123456`** |
+| **(Head Bartender)** | `iwong@streetbar.id` | Bartender | **`556677`** |
 
 *Password standar untuk login email: `admin123` / `cashier123`*
