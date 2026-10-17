@@ -64,12 +64,12 @@ return [
 
         'mariadb' => [
             'driver' => 'mariadb',
-            'url' => env('DB_URL'),
-            'host' => env('DB_HOST', 'xnhg1t.h.filess.io'),
-            'port' => env('DB_PORT', '3305'),
-            'database' => env('DB_DATABASE', 'streetbar_pos_blacknorth'),
-            'username' => env('DB_USERNAME', 'streetbar_pos_blacknorth'),
-            'password' => env('DB_PASSWORD', 'bdcc8d30c97c79058c1a139c6b788f0194ee4f70'),
+           'url' => env('DB_URL'),
+            'host' => env('DB_HOST', '202.10.43.25'),
+            'port' => env('DB_PORT', '3306'),
+            'database' => env('DB_DATABASE', 'fabe5691_streetbar_pos'),
+            'username' => env('DB_USERNAME', 'fabe5691_fabe'),
+            'password' => env('DB_PASSWORD', 'webAdmin@f4br14n'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => env('DB_CHARSET', 'utf8mb4'),
             'collation' => env('DB_COLLATION', 'utf8mb4_unicode_ci'),
